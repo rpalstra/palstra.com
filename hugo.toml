@@ -1,5 +1,11 @@
 baseURL = 'https://palstra.com/'
 languageCode = 'en-us'
 title = 'palstra.com'
+
 [params]
   subtitle = 'Senior DevOps Engineer | Consultant | Trainer | Red Hat Certified OpenShift Architect | Rotterdam'
+
+[params.visual.image]
+  enable = true
+  file = "images/Riemer_Static.jpg"
+  position = "center center"
