@@ -1,9 +1,11 @@
-baseURL = 'https://palstra.com/'
-languageCode = 'en-us'
-title = 'palstra.com'
+baseURL = "https://palstra.com/"
+languageCode = "en-us"
+title = "palstra.com"
+theme = "hugo-split-theme"
+copyright = "&copy; 2000 - 2025 Riemer Palstra"
 
 [params]
-  subtitle = 'Senior DevOps Engineer | Consultant | Trainer | Red Hat Certified OpenShift Architect | Rotterdam'
+  subtitle = "Senior DevOps Engineer | Consultant | Trainer | Red Hat Certified OpenShift Architect | Rotterdam"
 
 [params.visual.image]
   enable = true
