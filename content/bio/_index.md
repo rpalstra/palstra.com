@@ -9,9 +9,8 @@ ao_post_optimize:
   - 'a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}'
 
 ---
-<div class="wp-block-image">
-  <figure class="alignright size-medium"><img data-recalc-dims="1" loading="lazy" decoding="async" width="292" height="300" src="https://i0.wp.com/palstra.com/wp-content/uploads/2024/10/DSC08914-crop-800.jpg?resize=292%2C300&#038;ssl=1" alt="" class="wp-image-2533" srcset="https://i0.wp.com/palstra.com/wp-content/uploads/2024/10/DSC08914-crop-800.jpg?resize=292%2C300&ssl=1 292w, https://i0.wp.com/palstra.com/wp-content/uploads/2024/10/DSC08914-crop-800.jpg?w=800&ssl=1 800w" sizes="auto, (max-width: 292px) 100vw, 292px" /><figcaption class="wp-element-caption">Ik zei de gek.</figcaption></figure>
-</div>
+
+![Ik zei de gek.](/images/Riemer_Crop.jpg)
 
 Riemer. 43. Geboren in Hoorn, woont in Rotterdam, maar kon vroeger ook gevonden worden in Enkhuizen, Hellevoetsluis, Amsterdam, Hilversum of Zaandam. Ja, dat is een omweg ja. 
 
