@@ -25,7 +25,7 @@ time Apache and mod_php were finally replaced by nginx and php-fpm.
 
 Now a lot of the PHP and WordPress headaches are gone, with this site being
 built by a GitHub Deployment or Netlify Deploy. I've been moving around some
-static sites between GitHub Pages, AWS S3 with Clouddflare and Netlify and for
+static sites between GitHub Pages, AWS S3 with Cloudflare and Netlify and for
 now am staying at that last one. Moving around a static website and changing
 the pipeline output to a new destination seems a lot easier than any WordPress
 I've ever migrated.

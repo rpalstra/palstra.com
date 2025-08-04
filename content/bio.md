@@ -18,7 +18,8 @@ Years later, while still in High School I started building websites with a
 friend, and later started focusing on the hosting and other technical aspects.
 When the website building company failed, I stayed in the IT industry and
 started working at Internet Service Providers, such as Genuity and Demon
-Internet.
+Internet. Then, I spent 8 years working on Uitzending Gemist, NPO Player and
+NPO.nl at Dutch Public Broadcasting.
 
 Currently, I work as a Senior OpenShift Architect for HCS company, an Amsterdam
 based IT consultancy and services provider focusing on Open Source Solutions
