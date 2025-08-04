@@ -17,25 +17,14 @@ programming and handling information digitally.
 Years later, while still in High School I started building websites with a
 friend, and later started focusing on the hosting and other technical aspects.
 When the website building company failed, I stayed in the IT industry and
-started working at Internet Service Providers.
+started working at Internet Service Providers, such as Genuity and Demon
+Internet.
 
-Having achieved goal one (working at Demon Internet) I set out to achieve goal
-two: working for the Internet Department of Dutch Public Broadcasting. After a
-few years of overhauling their Metadata and On Demand Video systems, rebranding
-and launching a new central website and portal, it was time to move on.
-
-My consultancy and certification journey started at CRI Service in Houten,
-starting out as an all-round Linux Engineer, slowly changing focus to
-Automation Tooling like Puppet, Ansible and Satellite, Observability like
-ElasticSearch, Sensu, Grafana, and becoming Red Hat Certified Architect.
-
-When CRI Service stopped existing, I jumped ship with a lot of colleagues to
-one of the fastest growing Red Hat partners of The Netherlands, HCS company,
-and refocusing on Red Hat OpenShift. It gave me the chance to become a Red Hat
-Certified OpenShift Architect, and architect, consult, implement and debug
-OpenShift Container Platforms at all kinds of customers in Government, Banking,
-Insurance, Telecom and other interesting sectors, from plain infrastructure up
-to Application Migration, Deployment and CI/CD Automation.
+Currently, I work as a Senior OpenShift Architect for HCS company, an Amsterdam
+based IT consultancy and services provider focusing on Open Source Solutions
+including those created by Red Hat. I help or customers install, configure,
+implement, automate and integrate all aspects of the OpenShift Container
+Platform.
 
 I don't only work though. In my spare time I try to play guitar (on my Music
 Man, Sterling by Music Man or OLP Luke guitars), listen to music (such as Toto,
