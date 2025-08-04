@@ -1,0 +1,13 @@
+.img-bio-image {
+  float: left;
+  width: 200px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.img-intro-image {
+  float: right;
+  width: 200px;
+  margin-left: 20px; 
+  margin-bottom: 20px;
+}
