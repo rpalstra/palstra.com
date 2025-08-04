@@ -17,6 +17,11 @@ copyright = "&copy; 2000 - 2025 Riemer Palstra"
   I'm a Senior OpenShift Architect for HCS company in The Netherlands. Working with Open Source since 1999, I have been focusing mainly on Red Hat OpenShift and Ansible for the last few years.
   """
 
+  homeCollectionTitle = 'Posts'
+  homeCollection = 'posts'
+  paginationSize = 20
+  listSummaries = true
+
   # Social icons
   [[params.social]]
   name = "bluesky"
