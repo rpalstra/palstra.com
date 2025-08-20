@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/rpalstra
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://palstra.com
+  * I am rpalstra (https://keybase.io/rpalstra) on keybase.
+  * I have a public key with fingerprint 57BB 21CE 527B A090 AF21  B507 808E 0D6E 8B35 6DBF
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101b95aba312fee18e2cdcb783e1c7944fe675e9da6a1aea96f298d058c7194b8880a",
+      "fingerprint": "57bb21ce527ba090af21b507808e0d6e8b356dbf",
+      "host": "keybase.io",
+      "key_id": "808e0d6e8b356dbf",
+      "kid": "0101b95aba312fee18e2cdcb783e1c7944fe675e9da6a1aea96f298d058c7194b8880a",
+      "uid": "bbc8c417ff2229e209508231677eff19",
+      "username": "rpalstra"
+    },
+    "merkle_root": {
+      "ctime": 1516228360,
+      "hash_meta": "8210897893c4289403332d7380ddbd2e64b0aaa3d3b74b52debfd15a3a556939",
+      "seqno": 1939131
+    },
+    "revoke": {
+      "sig_ids": [
+        "725b3693b4569582ea47e58af7fb0b60b189b072a09d77e00f8065730e6732a80f"
+      ]
+    },
+    "service": {
+      "hostname": "palstra.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1516228459,
+  "expire_in": 157680000,
+  "prev": "120fc83d65cb906f0e796a13858e85970f553d5966695ac82eff12690e1e60a8",
+  "seqno": 24,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMK4AnicrVNbaB1FGD6pNiXBg5eCQUmtrDGSGupcdm7BUJtAJJWGXqTeclxmdmaS
+9ZycPd3dnLYkqX2xFVFqQazWQvsgpKVSS/WlxAcJQW0U44uCGBBaW4SWGqOiUqzO
+hogIPjovy8x+//d/3/fPzBRvKjQ3fLP3cttvxROXGj6dHh0tPB3Mlcc8Fes9XteY
+VzZLH1PRJs2CcqS9Lg9AAJUgUkkMkTUGcoNCHSrGsYEhE75vDWXECC2phNJIQS0S
+XAPCQwaFrzjnQHqdno2qQyapJVE1c7SEKYVgaAhiSgIBpEVQEcA44AZoarjChGpl
+XeFwnOYVTpySqVkfxe7MbYIlef+B/591jy7RKRXy0IfMWoSQMAgIAjjCkDJmrIUi
+B6YmqcoR49BJTVbSLJHeRKc3YpJyxQRJHGd5uGEW5RBIIEWIYwqcQZkOByMmk7kf
+BAEXjAsc+ogLH2CMkWaYA62VRob6CkgpscaK+YogbZTVkEgsCaEC5zpSs7Mauw5u
+BzF0ChJTj8smb55GQy621Ot6xmOIKOwqlO/qCEdG+swQLi2zCigKFORCAYbccLTz
+CIDlgBKGgUsNI8mB9UoTebOkHoVL5Pmclv0v218fxiNOUC2JsziMK+7HcJbV0q48
+lmxPLUfuMipY5ghUVNXukriKuknSKK46Ew7578R8Ijo9s7sWJSaIcgRhlAO38j6m
+7ighAjbkWFMSKgGoBYYJN2LMCTecCAYsIVgTQakzLkNn3Q0QUQEMNBRI/k+EyHc6
+5ZDjdMFVZTaaGG9i+sPBmwsNzYXGlSvy11Nobrrt7zclf1h1o4N1f/0qOX3sxbvG
+3nyq/futTUfbjhyqDFz5xL/089XHfmw9oB+dGxxsf/da0Hf5zjcOrzx+z5qjp69v
+bi+1fXBt/P7v9p9bfeG9iZO/PDu/qeXGrT0Lxe2n/uj985Fix7ZsYE3/5NvkhW2f
+19L2I1vq18t9cwe6xUNnWqv3LZ5EYemn11/rPDb75a/rejeNd7d8NbOhtPaO4PmN
+Z06MTbWeO68e3rf97p4nXm6ZrL81s/HCgzPVfWuffMXCqXd2/v7F1r2NCwdvn7+l
+aRFNnfUfn9/d+9z7C7T/4v6hgwOosbh6R3j14vy9xz9b8UDflpcOj89u6Dj0caX/
+o/PfNmyeXbVrUp8qDQ9Mn71SWgQ9fwHrOHzQ
+=+RYZ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rpalstra
+
+==================================================================

@@ -25,7 +25,7 @@ NPO.nl at Dutch Public Broadcasting.
 
 Currently, I work as a Senior OpenShift Architect for HCS company, an Amsterdam
 based IT consultancy and services provider focusing on Open Source Solutions
-including those created by Red Hat. I help or customers install, configure,
+including those created by Red Hat. I help our customers install, configure,
 implement, automate and integrate all aspects of the OpenShift Container
 Platform.
 
@@ -33,4 +33,5 @@ I don't only work though. In my spare time I try to play guitar (on my Music
 Man, Sterling by Music Man or OLP Luke guitars), listen to music (such as Toto,
 Tonic, Vertical Horizon, Green Day, Linkin Park, Foo Fighters, etc.), travel,
 go out for dinner and drinks, visit a concert, or just stay at home watching a
-Streaming Service. 
+Streaming Service. And since August 13th, 2025, my attention is also required
+by a miniature version of myself called Ryan.
