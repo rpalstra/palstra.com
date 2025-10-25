@@ -14,7 +14,7 @@ I've decided to take this boxes home with me and bite the bullet on buying a
 PlusTek OpticFilm scanner.
 
 After telling the SilverFast for MacOS software that it's processing a
-KodaChrome slide of film negative, sliding the resolution to 7200 DPI and
+KodaChrome slide or film negative, sliding the resolution to 7200 DPI and
 trying out my luck with some automatic corrections, the results are
 surprisingly good. It will take me quite some time to go through all the
 negatives (it's a large collection with not many previews) but I'm staying
