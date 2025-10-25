@@ -4,7 +4,7 @@ draft = false
 title = 'Scanner'
 +++
 
-{{< img "DiaTest.png" "Siebren and Riemer Palstra" >}}
+{{< img "DiaScan.png" "Siebren and Riemer Palstra" >}}
 
 When my father died in 2018, a few boxes of slides and negatives were left
 behind in my parents house in Lelystad. After it was sold, it lingered in the
