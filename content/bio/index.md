@@ -5,7 +5,7 @@ type: page
 date: 2008-05-09T22:38:42+00:00
 ---
 
-![It is me.](../images/Riemer_Crop.jpg#bio-image)
+![It is me.](Riemer_Crop.jpg#bio-image)
 
 Riemer. 45. Father of Ryan, boyfriend of a Senior Marketing Manager, and
 trainee stepfather. Born in Hoorn and currently living in Rotterdam, The
