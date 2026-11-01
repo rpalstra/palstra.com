@@ -24,10 +24,10 @@ Internet. Then, I spent 8 years working on Uitzending Gemist, NPO Player and
 NPO.nl at Dutch Public Broadcasting.
 
 Currently, I work as a Senior OpenShift Architect and Member of the Works
-Council for HCS company, an Amsterdam (for now) based IT consultancy and
-services provider focusing on Open Source Solutions including those created by
-Red Hat. I help our customers install, configure, implement, automate and
-integrate all aspects of the OpenShift Container Platform.
+Council for HCS company, an Utrecht based IT consultancy and services provider
+focusing on Open Source Solutions including those created by Red Hat. I help our
+customers install, configure, implement, automate and integrate all aspects of
+the OpenShift Container Platform.
 
 I don't only work though. In my spare time I try to play guitar (on my Music
 Man, Sterling by Music Man or OLP Luke guitars), listen to music (such as Toto,
