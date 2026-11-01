@@ -48,10 +48,6 @@ copyright = "&copy; 2000 - 2026 Riemer Palstra"
   name = "github"
   url = "https://github.com/rpalstra"
 
-  [[params.social]]
-  name = "digg"
-  url = "https://digg.com/@rpalstra"
-
   # Main menu pages
   [[params.menu]]
   name = "home"
